@@ -35,7 +35,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="text-center text-sm text-gray-600 py-4 bg-white bg-opacity-70">
-        © {new Date().getFullYear()} QuestionBank. All rights reserved. | Powered by Nuzhat
+        © {new Date().getFullYear()} QuestionBank. All rights reserved. | Powered by Richee-Nuzhat
       </footer>
     </div>
   );
